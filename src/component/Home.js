@@ -134,7 +134,7 @@ const Home = () => {
         </div>
       </div>
       <div className="integration mt-5">
-         <header>Integration</header>  
+         <header>Integrations</header>  
          <ul className="grid xl:grid-cols-3 gap-4 mt-10">
           <li className="flex flex-col first">
             <div className="flex space-x-2">
